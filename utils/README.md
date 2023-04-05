@@ -29,6 +29,8 @@ A project to build a simple platform to upload and view files:
 # Provided files
 
 * package.json
+
+
 {
   "name": "files_manager",
   "version": "1.0.0",
@@ -75,7 +77,10 @@ A project to build a simple platform to upload and view files:
 }
 
 
+
+
 * .eslintrc.js
+
 
 module.exports = {
     env: {
@@ -116,7 +121,11 @@ module.exports = {
 };
 
 
+
+
+
 * babel.config.js
+
 
 module.exports = {
     presets: [
@@ -130,6 +139,8 @@ module.exports = {
       ],
     ],
 };
+
+
 
 
 # and…
